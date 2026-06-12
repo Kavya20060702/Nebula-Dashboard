@@ -24,7 +24,7 @@ A modern glassmorphism-inspired project management dashboard featuring smooth an
 
 ## Live Demo
 
-<video src="Link here" controls width="100%">
+<video src="https://github.com/user-attachments/assets/90e8dd1c-ef09-4248-a329-862530adc02b" controls width="100%">
   Your browser does not support the video tag.
 </video>
 
