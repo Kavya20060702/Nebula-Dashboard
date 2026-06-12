@@ -23,8 +23,9 @@ A modern glassmorphism-inspired project management dashboard featuring smooth an
 - Framer Motion
 
 ## Live Demo
-
-(Add deployment link)
+<video src="The link" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ## Future Enhancements
 
